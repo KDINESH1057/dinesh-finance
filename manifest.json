@@ -1,0 +1,9 @@
+{
+  "name": "Dinesh Finance Pro 2026",
+  "short_name": "Dinesh Finance",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060817",
+  "theme_color": "#060817",
+  "description": "All-in-one personal finance and expense manager"
+}
